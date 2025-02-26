@@ -7,7 +7,7 @@
 - .aia
 
 ## Imagens
-![quiz](./quiz1.png)
+![quiz](./Questao1doQuiz.PNG)
 <img src="![Image](TelaInicialDoQuiz)" width="350px" height="700px" />
 <img src="" />
 
