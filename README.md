@@ -7,9 +7,8 @@
 - .aia
 
 ## Imagens
-<div aling="center">
-<img src="![Image](https://github.com/user-attachments/assets/cb7afd33-582c-401f-9d6a-048786a2a7a2)" width="350px" height="700px" />
-<div/>
+![quiz](./quiz1.png)
+<img src="![Image](TelaInicialDoQuiz)" width="350px" height="700px" />
 <img src="" />
 
 <img src="" />
