@@ -8,7 +8,7 @@
 
 ## Imagens
 <div aling="center">
-<img src="![Image](https://github.com/user-attachments/assets/cb7afd33-582c-401f-9d6a-048786a2a7a2)" width="700px" />
+<img src="![Image](https://github.com/user-attachments/assets/cb7afd33-582c-401f-9d6a-048786a2a7a2)" width="300px" height="700px" />
 <div/>
 <img src="" />
 
