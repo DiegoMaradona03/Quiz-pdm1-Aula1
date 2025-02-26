@@ -6,8 +6,5 @@
 - .apk
 - .aia
 
-## Funcionalidades
-- Cadastro de Consultas
-
-## Como rodar o projeto
-- 1 clone o repositório
+## Imagens
+<img src="" />
